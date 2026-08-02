@@ -1,4 +1,4 @@
-# Lab 1: Custom Base64 Encoder/Decoder in Pure x86_64 Assembly
+# Project 1: Custom Base64 Encoder/Decoder in Pure x86_64 Assembly
 
 ## Technical Objective
 Implements Base64 encoding and decoding entirely in x86_64 assembly — manual bit-shifting across byte boundaries and direct Linux syscall I/O, with no C runtime or standard library.
